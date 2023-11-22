@@ -1,6 +1,9 @@
 # repoArgProgramaGrupo10
 Repositorio React Js
 Cristian	Villalobos	      rv98478@gmail.com
+<br>
 Sandra	Mamaní	            sandranoeliabrancciari@gmail.com
+<br>
 Daniel Enrique 	Subelza 	danielsubelza1988@gmail.com
-Débora	Gasser	d           bgasser@gmail.com
+<br>
+Débora	Gasser	           dbgasser@gmail.com
