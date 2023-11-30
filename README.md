@@ -1,6 +1,11 @@
 Proyecto para el curso Argentina Programa - React js, de la Universidad Tecnológica Nacional (UTN). Se trata de una app que tendrá un calendario disponible, y un espacio para agendar tareas.
 
 
+Sandra	Mamaní	3885144762 (sandranoeliabrancciari@gmail.com)
+Daniel Enrique 	Subelza 	(388) 155845541 danielsubelza1988@gmail.com
+Débora	Gasser	(3492)15678351- dbgasser@gmail.com
+Cristian	Villalobos	2664840533(rv98478@gmail.com)
+
 
 # Getting Started with Create React App
 
