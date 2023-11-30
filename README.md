@@ -1,3 +1,7 @@
+Proyecto para el curso Argentina Programa - React js, de la Universidad Tecnológica Nacional (UTN). Se trata de una app que tendrá un calendario disponible, y un espacio para agendar tareas.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
