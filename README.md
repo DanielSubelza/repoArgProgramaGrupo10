@@ -5,8 +5,6 @@ Sandra	Mamaní	3885144762 (sandranoeliabrancciari@gmail.com)
 <BR>
 Daniel Enrique 	Subelza 	(388) 155845541 danielsubelza1988@gmail.com
 <BR>
-Débora	Gasser	- dbgasser@gmail.com
-<BR>
 Cristian	Villalobos -(rv98478@gmail.com)
 
  <b> DEPLOY: https://proyecto-reactjs-argprog-utn.vercel.app/ </b>
